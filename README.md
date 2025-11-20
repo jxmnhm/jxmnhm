@@ -58,10 +58,10 @@ def analyze_household(floor_level):
 ### 2. 案例研究：鹅的悖论 (Case Study: The Goose Paradox)
 
    这是一个关于观察偏差 (Observation Bias) 的经典案例。
-   Hypothesis: 主角"刘能"对去世的大鹅念念不忘。
-   Discovery: 农场里的一只鹅在《盛夏》失踪，却出现在公园挑衅羊驼。
-   Verdict: 刘能怀里的不是鹅，而是被他吸引的头雁。
-   Takeaway: 在魏姆林根，每一个像素都可能是推翻结论的关键证据。
+   - Hypothesis: 主角"刘能"对去世的大鹅念念不忘。
+   - Discovery: 农场里的一只鹅在《盛夏》失踪，却出现在公园挑衅羊驼。
+   - Verdict: 刘能怀里的不是鹅，而是被他吸引的头雁。
+   - Takeaway: 在魏姆林根，每一个像素都可能是推翻结论的关键证据。
    
 ### 3. 📺 视频解密终端 (Visual Decryption Terminal)
 我制作了 16+ 集 侦探系列视频，演示 PBL 项目式破案过程：
@@ -77,11 +77,14 @@ def analyze_household(floor_level):
 3. 📓 引导式问题手账Workbook包含从基础查询到高级推理的 100+ 交互任务。
 #### 🧠 核心方法论 (Core Philosophy)
 1. 认知韧性训练 (Cognitive Resilience)"面对密集信息的恐慌，是学习新事物最大的壁障。"我将 Wimmelbuch 视为一个反脆弱的认知训练场。在这里，我们训练大脑克服"填表焦虑"和"合同恐惧"，将被动接受转化为主动抓取，习得处理复杂系统的能力。
-2. 隐性知识与逻辑管道 (Tacit Knowledge)我深受迈克尔·波兰尼 (Michael Polanyi) 的影响。显性知识只是冰山一角，真正的逻辑推理依赖于对情境 (Context) 的深度感知。Code snippetgraph LR
+2. 隐性知识与逻辑管道 (Tacit Knowledge)我深受迈克尔·波兰尼 (Michael Polanyi) 的影响。显性知识只是冰山一角，真正的逻辑推理依赖于对情境 (Context) 的深度感知。
+```mermaid
+graph LR
     A[多维信息搜集] -->|过滤噪音| B(确定关键问题)
     B -->|关联隐性知识| C{模式识别}
     C -->|草蛇灰线| D[发现规律]
     C -->|交叉验证| E[做出判断]
+```
 🎡 游客中心 (Visitor Center)门票仅售书价，有效期终身。我为您规划了 7 条不同的游览路线：游览路线难度体验内容
 - 🕵️ 经典侦探线⭐⭐⭐⭐⭐追踪：锁定一个嫌疑人，逆时针遍历5本书，破解他的秘密。
 - 👀 视觉大发现⭐⭐⭐⭐⭐搜索：在密密麻麻的像素中找到丢失的"红色帽子"。
