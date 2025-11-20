@@ -95,8 +95,14 @@ def analyze_household(floor_level):
 ## ❓ 常见问题 (FAQ)
 Q: 这不就是一本单词书吗？
 A: ❌ 错误认知。单词只是伪装。它本质上是一套具有极强推理属性的多图层群像小说。
+
 Q: 为什么说它能提升"元认知"？
 A: 当你反思 "为什么这明显的线索我一开始竟然视而不见" 时，你的元认知能力就觉醒了。
+
 Q: 什么是"光天化日下的秘密"？
 A: 那些不需要显微镜，只需要耐心与逻辑就能发现的真相。
-<div align="center"><p><i>Built with ❤️ by Moyunshou. Exploring the code of life, one loop at a time.</i></p><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Djxmnhm%26show_icons%3Dtrue%26theme%3Dgraywhite%26hide_border%3Dtrue" alt="Jxmnhm's Stats" /></div>
+
+<div align="center">
+  <p><i>Built with ❤️ by Moyunshou. Exploring the code of life, one loop at a time.</i></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jxmnhm&show_icons=true&theme=graywhite&hide_border=true" alt="Jxmnhm's Stats" />
+</div>
